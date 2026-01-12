@@ -3,9 +3,10 @@
 A **React-based interactive dashboard** that visualizes **German electricity consumption and prices (2025)** alongside global commodity prices such as oil, coal, carbon credits, and uranium. The project enables comparison of energy prices against market prices to understand correlations and trends in the energy sector.
 
 ![Price Energy Dashboard.](/img/source_1.png "Main Dashboard")
+
 ---
 
-## ?? Project Purpose
+##  Project Purpose
 Electricity prices in Germany are influenced by multiple factors including:
 
 - Supply and demand fluctuations
@@ -17,7 +18,7 @@ Electricity prices in Germany are influenced by multiple factors including:
 This dashboard allows users to **explore electricity price behavior** in combination with **raw material market prices**, helping researchers, analysts, and energy enthusiasts visualize relationships between energy consumption and commodity pricing.
 
 
-## ?? Features
+##  Features
 
 - Load and display **German electricity consumption and price data** (from `data.csv`)
 - Compare electricity prices with **market commodities**:
@@ -33,7 +34,8 @@ This dashboard allows users to **explore electricity price behavior** in combina
 
 ---
 
-## ?? Price Types
+
+##  Price Types
 
 | Type | Description |
 |------|------------|
@@ -42,6 +44,7 @@ This dashboard allows users to **explore electricity price behavior** in combina
 | **Market Price** | Commodity prices (oil, coal, TTF gas, uranium, carbon credits) |
 
 By comparing electricity prices with commodity prices, users can identify patterns, correlations, and market influence on energy costs.
+
 
 ---
 
