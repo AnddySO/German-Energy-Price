@@ -1,4 +1,5 @@
 # Energy Price Dashboard
+You can have access to the [***final version***](https://german-energy-price.netlify.app/) of this project host in a **Netlify** server [Clicking here](https://german-energy-price.netlify.app/)
 
 A **React-based interactive dashboard** that visualizes **German electricity consumption and prices (2025)** alongside global commodity prices such as oil, coal, carbon credits, and uranium. The project enables comparison of energy prices against market prices to understand correlations and trends in the energy sector.
 
