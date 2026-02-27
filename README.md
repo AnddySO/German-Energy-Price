@@ -52,3 +52,6 @@ By comparing electricity prices with commodity prices, users can identify patter
 
 
 The financial information to generate this dashboard and create the comparation was obtain using the  [Data - Basic Materials](https://github.com/AnddySO/Data---Basic-Materials). Click [here](https://github.com/AnddySO/Data---Basic-Materials?tab=readme-ov-file#data---basic-materials) to see the documentation.
+
+You can answer some questions through this AI.
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AnddySO/German-Energy-Price)
